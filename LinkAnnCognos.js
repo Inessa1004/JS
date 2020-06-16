@@ -1,5 +1,5 @@
 function LinkAnnCognos() {  
-
+// debug
 	var url     = getElement("37648");
 	var company = getElement("29173").value;
 	var gn_proc_exec_no  = getElement("37026").value;
